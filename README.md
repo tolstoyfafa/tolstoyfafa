@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Fayçal
 #### I am a fullstack developer 
-![I am a fullstack developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a fullstack developer ](banner.png)
 
 I am fullstask developer specialized on web technologies and software architecture with some skills on data science  
 
