@@ -16,4 +16,4 @@ Skills: Java / spring framework / Web techno (JS / REACT / JS / HTML / CSS)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tolstoyfafa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/tolstoyfafa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](tolstoyfafa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fayçal-b-582248140//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abasnath)  
 
-<img src="https://github-readme-stats.vercel.app/api?username=YourUsername" />
+<img src="https://github-readme-stats.vercel.app/api?username=tolstoyfafa" />
