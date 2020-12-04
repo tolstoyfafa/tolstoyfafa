@@ -48,4 +48,4 @@ I am fullstask developer specialized on web technologies and software architectu
 - 💬 Ask me about what you want  
 - 📫 How to reach me: I'm on github, I don't really like social networks 
 
-**DO NOT FORGET TO PUT A FOLLOW ME ** :) 
+**DO NOT FORGET TO PUT A FOLLOW ME** :) 
