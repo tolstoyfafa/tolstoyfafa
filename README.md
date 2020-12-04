@@ -33,13 +33,13 @@ I am fullstask developer specialized on web technologies and software architectu
 
 > **NB** I had worked with all listed above technologies, but it did not means that I have deep knowledge on eachone, there is a different level of mastering 
 
+#### My Social networks 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tolstoyfafa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/tolstoyfafa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](tolstoyfafa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fayçal-b-582248140//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abasnath)  
 
-#### Stats
+#### My Stats
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tolstoyfafa)
 
 <img src="https://github-readme-stats.vercel.app/api?username=tolstoyfafa" />
-
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning java, javascript, data science, devops 
@@ -47,3 +47,5 @@ I am fullstask developer specialized on web technologies and software architectu
 - 🤔 I’m looking for help with web technologies and data science 
 - 💬 Ask me about what you want  
 - 📫 How to reach me: I'm on github, I don't really like social networks 
+
+**DO NOT FORGET TO PUT A FOLLOW ME ** :) 
