@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Fayçal
-#### I am a junior developer 
-![I am a junior developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### I am a fullstack developer 
+![I am a fullstack developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I am junior developer specialized on web technologies and software architecture with some skills on data science  
+I am fullstask developer specialized on web technologies and software architecture with some skills on data science  
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Java / spring framework / Web techno (JS / REACT / JS / HTML / CSS)
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning java, javascript, data science, devops 
